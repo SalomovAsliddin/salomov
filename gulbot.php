@@ -2,7 +2,7 @@
 
 <?php
 ob_start();
-define('API_KEY', '1057173696:AAG9e7-GL0VpYqtsNqu9iP1rQr_evZ7oxn0');
+define('API_KEY', '1176554684:AAF-1Y4nlXJd0zv3MpDrk6nWsYGAOTk6Ltk8');
 //tokenni yozing
 $admin = "671079965"; 
 //ozizni id raqamizni yozing
